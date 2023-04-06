@@ -1,0 +1,19 @@
+body{
+    background-image: url(img/1668870672_25-pibig-info-p-katava-sedze-pinterest-39.png);
+    background-position: 100% 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+text-align: center
+}
+
+.card{
+    background-color:rgba(182, 163, 139, 0.493);
+    width: 450px;
+    height: 600px;
+    margin: 20px auto;
+    border-radius: 10px;
+    padding: 5px;
+}
